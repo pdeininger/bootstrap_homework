@@ -1,1 +1,2 @@
 # bootstrap_homework
+This is the second homework assignment for the University of Richmond Coding Bootcamp course.  In this assignment, along with HTML and CSS, I used Twitter Bootstrap to improve upon the previous site I made for our first homework assignment.  
